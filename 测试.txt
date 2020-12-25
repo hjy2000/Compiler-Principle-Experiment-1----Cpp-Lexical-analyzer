@@ -1,0 +1,8 @@
+#include<iostream.h>
+main()
+{
+   int i;//这是注释 空个格试一下
+   cin>>i;
+/*真牛啊*/	
+   if (i>3) cout<<“ok”;
+}
